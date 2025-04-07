@@ -1,14 +1,11 @@
-i'm thinking of an application for multi purposes such as the following:
+i'm thinking of a web service for multi purposes such as the following:
 
-**Currency Exchange.
-**height Converter.
-**Masse.
-**Time.
-**Data.
-**system numérique converter.
-**Velocity .
-**temperature.
-**BMI converter.
+**Currency Exchange. (free api's in python)
+**height Converter. (in C)
+**Masse. (in C)
+**system numeric converter. (in python)
+**temperature. (in C)
+**BMI converter. (it selects sex,age,height,weight)
 
 ALL of the above are converters that's part of the service.
 
@@ -29,6 +26,7 @@ https://www.geeksforgeeks.org/python-program-to-calculate-age-in-year/
 https://www.geeksforgeeks.org/create-a-random-password-generator-using-python/?ref=asr1
 https://docs.python.org/3/library/secrets.html
 https://docs.python.org/fr/3/library/datetime.html
+https://docs.python.org/3/library/functions.html#int
 
 
 
@@ -45,4 +43,4 @@ mytoolbox/
 └── README.md                # Documentation
 
 
-This will be written in HTML/CSS/JS and C and python. Wish me luck :)
+This will be written in HTML/CSS/JS and svelte and C and python. Wish me luck :)
