@@ -5,10 +5,10 @@ i'm thinking of an application for multi purposes such as the following:
 **Masse.
 **Time.
 **Data.
-**système numérique converter.
+**system numérique converter.
 **Velocity .
 **temperature.
-**BMI convereter.
+**BMI converter.
 
 ALL of the above are converters that's part of the service.
 
@@ -27,4 +27,22 @@ Copier automatiquement dans le presse-papiers (pyperclip)).
 https://docs.python.org/3/library/tkinter.html
 https://www.geeksforgeeks.org/python-program-to-calculate-age-in-year/
 https://www.geeksforgeeks.org/create-a-random-password-generator-using-python/?ref=asr1
+https://docs.python.org/3/library/secrets.html
+https://docs.python.org/fr/3/library/datetime.html
 
+
+
+                            Structure Du Project
+mytoolbox/
+│
+├── main.py                  # Menu principal
+├── convertisseur.py         # Module de conversion
+├── calculateur_age.py       # Module d'âge
+├── gestion_taches.py        # Module de tâches
+├── mot_de_passe.py          # Générateur de mot de passe
+├── bloc_notes.py            # Bloc-notes
+├── data/                    # Fichiers de sauvegarde (.txt, .json, etc.)
+└── README.md                # Documentation
+
+
+This will be written in HTML/CSS/JS and C and python. Wish me luck :)
